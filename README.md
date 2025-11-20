@@ -1,2 +1,0 @@
-# dbms-manual
-new repo
